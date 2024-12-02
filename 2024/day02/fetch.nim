@@ -4,7 +4,7 @@ import std/[
 ]
 const
   baseURL: string = "https://adventofcode.com/2024/day"
-  textURL: string = baseURL & "/1"
+  textURL: string = baseURL & "/2"
   inputURL: string = textURL & "/input"
   msg: string = "Please, enter your AoC session token " &
     "(Leave empty to use the existing input.txt file):"

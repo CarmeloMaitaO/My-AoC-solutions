@@ -4,6 +4,10 @@ htmldocs/
 session.token
 solution
 text.text
+text.html
+instructions.md
 2024/*/session.token
 2024/*/solution
 2024/*/text.txt
+2024/*/text.html
+2024/*/instructions.md
